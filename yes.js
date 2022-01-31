@@ -47,7 +47,7 @@ var SHEEP_2048;
       frame=null;
       wrapper=null;
       SHEEP_2048=undefined;
-      for (var script of document.querySelectorAll('script[src="https://raw.githubusercontent.com/ant-7802/-/main/test.js"]')) script.parentNode.removeChild(script);
+      for (var script of document.querySelectorAll('script[src="https://raw.githubusercontent.com/ant-7802/-/main/yes.js"]')) script.parentNode.removeChild(script);
     };
   }
 }());
